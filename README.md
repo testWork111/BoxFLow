@@ -1,4 +1,4 @@
-![box](./assets/box.png)
+![box](assets/box.png)
 
 # BoxFlow：一个基于Nodejs + electron开发的桌面AI Agent应用
 
@@ -158,4 +158,5 @@ $ npm run build:mac
 # For Linux
 $ npm run build:linux
 ```
+
 
