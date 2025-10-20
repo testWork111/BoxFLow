@@ -6,8 +6,6 @@ AI很美好，让我们可以通过自然语言去操控各种各样的工具。
 
 ![5c6655dcfe50523164c31d5a4ea10d3](assets/5c6655dcfe50523164c31d5a4ea10d3-1760948986722-27.png)
 
-## 感谢
-本产品基于蚂蚁百宝箱Tbox研发(https://www.tbox.cn/about)，蚂蚁百宝箱目前API调用每月有10亿免费token，截止到2025年10月底，之后的计划暂时还不清楚。
 
 ## 基本能力
 
@@ -162,5 +160,7 @@ $ npm run build:mac
 $ npm run build:linux
 ```
 
+## 感谢
+本产品基于[蚂蚁百宝箱](https://www.tbox.cn/about)Tbox研发，蚂蚁百宝箱目前API调用每月有10亿免费token，截止到2025年10月底，之后的计划暂时还不清楚。
 
 
